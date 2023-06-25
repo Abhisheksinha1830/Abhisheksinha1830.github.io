@@ -5,7 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/abhishek-kumar-sinha-1aa0b6188">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll-theme-minimal ##pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: ----- # your Google Analytics tracking ID here
+colors:
+  crimson: '#900C3F'
