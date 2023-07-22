@@ -9,5 +9,3 @@ The client initially relied on a heuristic forecasting approach characterized by
 <img src="images/portfolio.png?raw=true"/>
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
