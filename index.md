@@ -12,5 +12,9 @@ The client initially relied on a heuristic forecasting approach characterized by
 This project focus on performing data engineering anf analysis on Taxi data using various tools like GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio
 
 
+[Data Engineering and Analysis ](/sample_page)
+<img src="portfolio dae project.png?raw=true"/>
+
+
 
 
