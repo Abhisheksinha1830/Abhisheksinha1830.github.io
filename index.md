@@ -20,7 +20,7 @@ This project harnesses the power of cutting-edge machine learning algorithms and
 
 
 [Cricket worldcup 2023 predictor ](https://github.com/Abhisheksinha1830/cricket-worldcup-23-prediction)
-<img src="portfolio dae project.png?raw=true"/>
+<img src="wc23 prediction work flow cropped.png?raw=true"/>
 
 
 
