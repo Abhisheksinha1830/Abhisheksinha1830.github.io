@@ -15,6 +15,13 @@ This project focus on performing data engineering and analysis on Taxi data usin
 [Data Engineering and Analysis ](https://github.com/Abhisheksinha1830/Data-Engineering-Project-Taxi-data)
 <img src="portfolio dae project.png?raw=true"/>
 
+### Cricket Men ODI worldcup 2023 prediction
+This project harnesses the power of cutting-edge machine learning algorithms and data analysis techniques to forecast match outcomes with a high degree of accuracy
+
+
+[Cricket worldcup 2023 predictor ](https://github.com/Abhisheksinha1830/cricket-worldcup-23-prediction)
+<img src="portfolio dae project.png?raw=true"/>
+
 
 
 
